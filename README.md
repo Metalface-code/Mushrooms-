@@ -1,6 +1,6 @@
-# Mushroom study-
+# Mushroom Medical Study-
 
-## Data summary-
+## Data Summary-
 
 ### There were 8,124 samples in the data
 ### Classified by a total of 23 features
@@ -14,7 +14,9 @@
 
 # The goal was to find which mushrooms were safe for consumption for posible use in medical studies 
 
-## I created the following models to test how well we could classify the safe and not so safe mushrooms,
+# The Process 
+
+### I created the following models to test how well we could classify the safe and not so safe mushrooms,
 ### 1. K nearest kneigbors or KNN for short due to the simplicity and good accuracy 
 ### 2. Random forest classifier to see if it was anymore or less accurate
 ### 3. Tested the pipelins with and without PCA to see if we could add value to the model through faster processing
