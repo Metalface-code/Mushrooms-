@@ -27,8 +27,8 @@
 ![image](https://user-images.githubusercontent.com/105470937/192001520-bbbc31b9-1511-4368-ba0d-24da66d8b5e9.png)
 ### As seen above the model was very accurate in giving the perfect ratio of which mushrooms were safe and which were poisonous
 
-Conclution and Reccomendation
-# In the end I found that, 
+# Conclution and Reccomendation
+## In the end I found that, 
 ### The model I tested was very accurate in finding which mushrooms were safe and usful for medical trails with humans 
 ### Random Forrest and KNN were used and compared to see which was more accurate but also more effecient for cost effectiveness 
 ### The KNN model was the best when used with PCA since it made the model 40 % more effecient without sacrificing accuracy
