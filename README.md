@@ -29,6 +29,9 @@
 ![image](https://user-images.githubusercontent.com/105470937/192001520-bbbc31b9-1511-4368-ba0d-24da66d8b5e9.png)
 ### As seen above the model was very accurate in giving the perfect ratio of which mushrooms were safe and which were poisonous
 
+![image](https://user-images.githubusercontent.com/105470937/193191688-cd9172e7-82a1-4940-9d2d-ec89252b72a2.png)
+### We also found that strong smells meant the mushrooms were unsafe for consumption
+
 # Conclution and Reccomendation
 ## In the end I found that, 
 ### The model I tested was very accurate in finding which mushrooms were safe and usful for medical trails with humans 
