@@ -9,7 +9,7 @@
 
 # Problem- 
 
-## Which mushrooms were safe for consumption in grocery stores and for possible medical use?
+## Which mushrooms were safe for humans in medical use?
  
 
 # The goal was to find which mushrooms were safe for consumption for posible use in medical studies 
