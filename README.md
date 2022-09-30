@@ -34,6 +34,6 @@
 
 # Conclution and Reccomendation
 ## In the end I found that, 
-### The model I tested was very accurate in finding which mushrooms were safe and usful for medical trails with humans 
-### Random Forrest and KNN were used and compared to see which was more accurate but also more effecient for cost effectiveness 
-### The KNN model was the best when used with PCA since it made the model 40 % more effecient without sacrificing accuracy
+### The model I tested was very accurate in finding which mushrooms were safe and useful for medical trails with humans 
+### Random Forrest and KNN were used and compared to see which was more accurate but also more efficient
+### The KNN model was the best when used with PCA since it made the model 40 % more efficient without sacrificing accuracy
