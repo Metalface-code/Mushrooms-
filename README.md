@@ -17,9 +17,9 @@
 # The Process 
 
 ### I created the following models to test how well we could classify the safe and not so safe mushrooms,
-### 1. K nearest kneigbors or KNN for short due to the simplicity and good accuracy 
+### 1. K nearest neigbors or KNN for short due to the simplicity and good accuracy 
 ### 2. Random forest classifier to see if it was anymore or less accurate
-### 3. Tested the pipelins with and without PCA to see if we could add value to the model through faster processing
+### 3. Tested the pipelines with and without PCA to see if we could add value to the model through faster processing
 
 # Visuals
 
