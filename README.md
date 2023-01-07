@@ -83,8 +83,7 @@ habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 # Conclution and Reccomendation
 ## In the end I found that, 
 ### The model I tested was very accurate in finding which mushrooms were safe and useful for medical trails with humans
-## The mushrooms with strong oders and no rings were poisonous. 
-We can take strong odors as natures sign to stay away from unsafe handling of consumption 
+## The mushrooms with strong oders and no rings were poisonous. We can take strong odors as natures sign to stay away from unsafe handling of consumption 
 of those mushrooms.
 ### Random Forrest and KNN were used and compared to see which was more accurate but also more efficient
 ### The KNN model was the best when used with PCA since it made the model 40 % more efficient without sacrificing accuracy
