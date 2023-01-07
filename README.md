@@ -86,5 +86,5 @@ habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 ### Random Forrest and KNN were used and compared to see which was more accurate but also more efficient
 ### The KNN model was the best when used with PCA since it made the model 40 % more efficient without sacrificing accuracy
 # The final solution
-## The mushrooms with foul and/or musty oders and no rings were poisonous. We can take strong odors as natures sign to stay away from unsafe handling of consumption of those mushrooms.
+## The mushrooms with foul and/or musty oders and multiple rings are poisonous. We can take strong odors as natures sign to stay away from unsafe handling of consumption of those mushrooms.
 
