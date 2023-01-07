@@ -9,7 +9,7 @@
 
 # Problem- 
 
-## Which mushrooms were safe for humans in medical use?
+## Which mushrooms were safe for humans for consumption or medical use?
 
 ## Keys to follow
 
