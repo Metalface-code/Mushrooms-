@@ -87,8 +87,8 @@ habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 ### The KNN model was the best when used with PCA since it made the model 40 % more efficient without sacrificing accuracy
 # The final solution
 ## The mushrooms with foul and/or musty oders and multiple rings are poisonous. We can take strong odors as natures sign to stay away from unsafe handling of consumption of those mushrooms.
-## Additional research shows that 
-### Avoid mushrooms with white gills, a skirt or ring on the stem and a bulbous or sack like base called a volva. You may be missing out on some good edible fungi but it means you will be avoiding the deadly members of the Amanita family.
-Avoid mushrooms with red on the cap or stem. Again you will be missing out on some good mushrooms but more importantly you won’t be picking poisonous ones.
-additiona research sourced from https://www.wildfooduk.com/articles/how-to-tell-the-difference-between-poisonous-and-edible-mushrooms/. 
+# Additional research shows that 
+## Avoid mushrooms with white gills, a skirt or ring on the stem and a bulbous or sack like base called a volva. You may be missing out on some good edible fungi but it means you will be avoiding the deadly members of the Amanita family.
+## Avoid mushrooms with red on the cap or stem. Again you will be missing out on some good mushrooms but more importantly you won’t be picking poisonous ones.
+additional research sourced from https://www.wildfooduk.com/articles/how-to-tell-the-difference-between-poisonous-and-edible-mushrooms/. 
 
