@@ -80,12 +80,12 @@ habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 ![image](https://user-images.githubusercontent.com/105470937/193191688-cd9172e7-82a1-4940-9d2d-ec89252b72a2.png)
 ### We also found that strong smells meant the mushrooms were unsafe for consumption
 
-# Conclution and Reccomendation
+# Conclusion and Recommendation
 ## In the end I found that, 
 ### The model I tested was very accurate in finding which mushrooms were safe and useful for medical trails with humans 
 ### Random Forrest and KNN were used and compared to see which was more accurate but also more efficient
 ### The KNN model was the best when used with PCA since it made the model 40 % more efficient without sacrificing accuracy
-# My Recomendation
+# My Recommendation
 ## The mushrooms with foul and/or musty oders and multiple rings are poisonous. We can take strong odors as natures sign to stay away from unsafe handling or consumption of those mushrooms.
 # Additional research shows that 
 ## We should avoid mushrooms with white gills, a skirt or ring on the stem and a bulbous or sack like base called a volva. You may be missing out on some good edible fungi but it means you will be avoiding the deadly members of the Amanita family.
